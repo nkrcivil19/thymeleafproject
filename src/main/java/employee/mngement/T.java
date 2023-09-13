@@ -6,7 +6,7 @@ public class T {
 		System.out.println("from T classgi");
 
 		
-		System.out.println("t            pghirh;k;hkd;;;'");
+		System.out.println("tpghirh;k;hkd;;;'");
 	}
 	
 }
