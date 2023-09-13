@@ -13,6 +13,7 @@ public class T {
 		System.out.println("from T classgi");
 
 		System.out.println("from T class");
+		System.out.println("new ");
 
 	}
 	
